@@ -1,9 +1,4 @@
-# hello.py - File mẫu để thực hành labbbbbbbbbbbbbbbbbbbbbbbbbbdsg
-# hello.py - File mẫu để thực hành labbbbbbbbbbbbbbbbbbbbbbbbbbdsg
-# hello.py - File mẫu để thực hành labbbbbbbbbbbbbbbbbbbbbbbbbbdsg
-# hello.py - File mẫu để thực hành labbbbbbbbbbbbbbbbbbbbbbbbbbdsg
-# hello.py - File mẫu để thực hành labbbbbbbbbbbbbbbbbbbbbbbbbbdsg
-# hello.py - File mẫu để thực hành labbbbbbbbbbbbbbbbbbbbbbbbbbdsg
+# hello.py - File mẫu để thực hành lab
 from datetime import datetime
 
 
